@@ -1,14 +1,24 @@
 ### Hi there 👋
 
-**prashant075/prashant075** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software professional with 4 years of experience in Software Design and Development.
+• Hands-on experience in conceptualizing and developing a REST API using Java and Spring Boot
+• Web Application Development expertise with strong knowledge on micro-services and distributed architecture
+• Ability to architect complex software systems and write clean, modular, and loosely coupled code by the use of object oriented and design pattern concepts
+• Proficiency in the implementation of algorithms and the use of advanced data structures to solve complex problems in computing
+• Strong understanding of core Java concepts - collections, multi-threading, exception handling, streams
+• Ability to design, develop, test, deploy and maintain software systems
+• Good understanding of High level and Low level Software Design
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Java.
-- 🌱 I’m currently learning MongoDB.
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Programming : Java, Java Script
+Framework : Spring, Spring Boot, Hibernate, JPA, Node.js
+Databases : MSSQL, MySQL, MongoDB
+VCS : Git, GitHub, TFS
+Unit Testing : Junit5, Mockito, Mocha
+API Testing: Postman, JMeter
+API Documentation: Swagger
+Virtualization : Docker
+IDE/Tools : VS Code, Eclipse, STS
+Build Tools : Maven
+Server: Tomcat
+Cloud: AWS
+Operating Systems : MacOs, Linux, Windows
