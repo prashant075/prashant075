@@ -13,4 +13,7 @@ IDE/Tools : VS Code, Intellij, STS
 Build Tools : Maven                                                                                     
 Server: Tomcat                                                                                      
 Cloud: AWS                                                                                                  
-Operating Systems : MacOs, Linux, Windows                                                                                                       
+Operating Systems : MacOs, Linux, Windows       
+LeetCode Profile: https://leetcode.com/prashant075/
+Linkedin Profile: https://www.linkedin.com/in/prashant-gupta-91481781/
+StackOverFlow Profile: https://stackoverflow.com/users/6916147/prashant-gupta
