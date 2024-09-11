@@ -1,30 +1,18 @@
-Experienced software professional with over 7 years of experience in software design and development, possessing excellent problem-solving skills, and the ability to work in high-pressure environments.
+# 💫 About Me:
+Experienced software professional with over 7 years of experience in software design and development, possessing excellent problem-solving skills, and the ability to work in high-pressure environments.<br><br>Skills and Expertise:<br><br>Hands-on experience in conceptualizing and developing REST APIs using Java and Spring Boot<br>Expertise in web application development with a strong knowledge of microservices and distributed architecture<br>Ability to architect complex software systems and write clean, modular, and loosely coupled code using object-oriented and design pattern concepts<br>Proficiency in implementing algorithms and utilizing advanced data structures to solve complex computing problems<br>Strong understanding of core Java concepts including collections, multi-threading, exception handling, and streams<br>Capability to design, develop, test, deploy, and maintain software systems<br>Good understanding of high-level and low-level software design Programming Languages: Java, JavaScript Frameworks: Spring, Spring Boot, Hibernate, JPA, Node.js Databases: MSSQL, MySQL, MongoDB Version Control Systems: Git, GitHub, TFS Unit Testing: Junit5, Mockito, Mocha API Testing: Postman, JMeter API Documentation: Swagger Virtualization: Docker IDE/Tools: VS Code, Intellij, STS Build Tools: Maven Server: Tomcat Cloud: AWS Operating Systems: macOS, Linux, Windows<br>Profiles:<br><br>Connect and share our coding journey: https://topmate.io/csprashantgupta<br>LeetCode Profile: https://leetcode.com/prashant075/<br>LinkedIn: https://www.linkedin.com/in/prashant-gupta-91481781/<br>Stack Overflow: https://stackoverflow.com/users/6916147/prashant-guptaLet's
 
-Skills and Expertise:
-- Hands-on experience in conceptualizing and developing REST APIs using Java and Spring Boot
-- Expertise in web application development with a strong knowledge of microservices and distributed architecture
-- Ability to architect complex software systems and write clean, modular, and loosely coupled code using object-oriented and design pattern concepts
-- Proficiency in implementing algorithms and utilizing advanced data structures to solve complex computing problems
-- Strong understanding of core Java concepts including collections, multi-threading, exception handling, and streams
-- Capability to design, develop, test, deploy, and maintain software systems
-- Good understanding of high-level and low-level software design
-Programming Languages: Java, JavaScript
-Frameworks: Spring, Spring Boot, Hibernate, JPA, Node.js
-Databases: MSSQL, MySQL, MongoDB
-Version Control Systems: Git, GitHub, TFS
-Unit Testing: Junit5, Mockito, Mocha
-API Testing: Postman, JMeter
-API Documentation: Swagger
-Virtualization: Docker
-IDE/Tools: VS Code, Intellij, STS
-Build Tools: Maven
-Server: Tomcat
-Cloud: AWS
-Operating Systems: macOS, Linux, Windows
 
-Profiles:
-- Connect and share our coding journey: https://topmate.io/csprashantgupta
-- LeetCode Profile: https://leetcode.com/prashant075/
-- LinkedIn: https://www.linkedin.com/in/prashant-gupta-91481781/
-- Stack Overflow: https://stackoverflow.com/users/6916147/prashant-guptaLet's
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/prashant-gupta-91481781) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/6916147) 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![Apache Flink](https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=prashant075&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=prashant075&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=prashant075&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=prashant075&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
